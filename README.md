@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, my name is Jean Daniel TONDE
 
 <!--
 **jdanieltonde/jdanieltonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
